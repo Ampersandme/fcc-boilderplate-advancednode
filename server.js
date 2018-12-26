@@ -22,8 +22,6 @@ app.route('/')
     res.render(process.cwd() + '/views/pug/index.pug');
   });
 
-
-
 // Old index render
 
 /*
